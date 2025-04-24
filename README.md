@@ -74,9 +74,5 @@ A simple interactive web interface to test genre prediction by uploading music f
 
 ---
 
-## 📌 Usage
 
-1. Clone the repository
-```bash
-git clone https://github.com/your-username/music-genre-classification.git
-cd music-genre-classification
+
